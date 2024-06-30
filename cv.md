@@ -4,3 +4,5 @@
 ##I have no skills in the IT industry##
 ##no code examples##
 ##I do not have work experience##
+##higher technical education, qualification: engineer##
+##English level: Elementary##
